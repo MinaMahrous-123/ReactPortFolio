@@ -205,13 +205,16 @@ span{
     .nav .links,.nav .btn{
         display: none;
     }
-/* .continer{
+.continer{
    
    flex-direction: column; 
    align-items: center; 
+   position: relative;
+   top: 100px;
+   text-align: center;
  
 } 
-*/
+
 
 .dicimg img{
 width: 200px;
