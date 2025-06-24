@@ -173,9 +173,10 @@ background-color: rgba(32, 15, 15, 0.516);
 
 span{
     color:  rgb(173, 150, 17);
-    font-size: 80px;
+    font-size: 60px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-transform: uppercase;
+    
 }
 
 .sidemenue .menu img{
