@@ -1,0 +1,65 @@
+p{
+    font-size: larger;
+    text-transform: capitalize;
+   text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    flex-direction: column;
+    margin-left: 10%;
+   
+}
+
+.contact input,textarea{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    
+}
+
+
+.submit{
+    text-align: center;
+    margin: 20px;
+ 
+}
+
+
+.social{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+
+
+.social span{
+    font-size: 58px;
+    margin: 13px;
+    transition: 1s;
+}
+.face{
+    color: rgb(46, 90, 141);
+    background-color: black;
+}
+.twiter{
+    color: rgb(45, 154, 154);
+}
+.insta{
+    color: rgb(16, 60, 113);
+}
+.git{
+    color: rgb(8, 125, 131);
+}
+.face:hover,.twiter:hover,.insta:hover,.git:hover{
+    color:rgb(173, 150, 17);
+}
+
+
+
