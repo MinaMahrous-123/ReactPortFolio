@@ -196,6 +196,7 @@ span{
 
 @media (max-width:840px){
 /* .nav{
+   
     
 } */
 
@@ -210,11 +211,13 @@ span{
    
    flex-direction: column; 
    align-items: center; 
-   position: relative;
-   top: 100px;
    text-align: center;
+   
  
 } 
+.discraption{
+    margin-top: 200px;
+}
 
 
 .dicimg img{
