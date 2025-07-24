@@ -45,20 +45,21 @@ p{
     transition: 1s;
 }
 .face{
-    color: rgb(46, 90, 141);
+    color:rgb(173, 150, 17);
     background-color: black;
 }
 .twiter{
-    color: rgb(45, 154, 154);
+    color:rgb(173, 150, 17);
 }
 .insta{
-    color: rgb(16, 60, 113);
+    color:rgb(173, 150, 17);
 }
 .git{
-    color: rgb(8, 125, 131);
+    color:rgb(173, 150, 17);
 }
 .face:hover,.twiter:hover,.insta:hover,.git:hover{
-    color:rgb(173, 150, 17);
+    color: rgb(62, 53, 22);
+   border-bottom: 6px rgb(175, 175, 9) solid;
 }
 
 

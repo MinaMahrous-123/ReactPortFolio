@@ -2,7 +2,7 @@
    /* display: flex;
    justify-content: center; */
    text-transform: capitalize;
-   font-size: x-large;
+   font-size: large;
     
 }
 
@@ -32,7 +32,7 @@
 }
 
 .dis img{
-    margin: 0px 50px;
+    margin: 10px;
 }
 
 @media (max-width:800px) {
