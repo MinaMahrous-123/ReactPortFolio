@@ -17,7 +17,7 @@ export default function NavPar(){
             </div>
             <div className="links">
                 <ul>
-                <li><a href="#"
+                <li><a href="#gg"
         onClick={function(){
             home.scrollIntoView({behavior:"smooth"})
         }}

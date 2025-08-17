@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { FaFacebook, FaTwitter, FaLinkedin, FaGithub } from "react-icons/fa";
 
+
 export default function Client(){
 
     const[showitem,setitem]=useState({name:"",gmail:"",infor:""});
@@ -79,7 +80,6 @@ export default function Client(){
             <span className="git"><FaGithub/></span>
             </a>
         </div>
-
 
 
 

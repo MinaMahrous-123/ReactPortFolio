@@ -41,8 +41,9 @@ p{
 
 .social span{
     font-size: 59px;
-    margin: 13px;
+    margin: 15px;
     transition: 1s;
+   
 }
 .face{
     color:rgb(173, 150, 17);
@@ -61,6 +62,8 @@ p{
     color: rgb(62, 53, 22);
    border-bottom: 6px rgb(175, 175, 9) solid;
 }
+
+
 
 
 

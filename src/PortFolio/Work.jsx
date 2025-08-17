@@ -15,15 +15,33 @@ export default function Work(){
             <div className="projects">
 
                 <div className="one">
-                    <img src={pr1} alt="" />
-                    <img src={pr2} alt="" />
-                    <img src={pr3} alt="" />
+                    <div>
+                        <img src={pr1} alt=""/>
+                    </div>
+
+                      <div>
+                        <img src={pr2} alt="" />
+                    </div>
+
+                      <div>
+                        <img src={pr3} alt="" />
+                    </div>
+                  
                 </div>
 
-                <div className="on">
-                    <img src={pr4} alt="" />
-                    <img src={pr5} alt="" />
-                    <img src={pr6} alt="" />
+                 <div className="two">
+                    <div>
+                        <img src={pr4} alt="" />
+                    </div>
+
+                      <div>
+                        <img src={pr5} alt="" />
+                    </div>
+
+                      <div>
+                        <img src={pr6} alt="" />
+                    </div>
+                  
                 </div>
                 <div className="link">
                     <button className="btn"

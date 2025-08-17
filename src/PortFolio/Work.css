@@ -1,21 +1,36 @@
 .head h1{
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    margin-bottom: 100px;
 
 }
-.projects img{
-    width: 20%;
-    margin: 10px;
-    padding: 15px;
-}
-.projects .one,.on{
+
+
+.projects .one,.two{
     display: flex;
     justify-content: center;
-    margin: 10px;
+    align-items: center;
+    text-align: center;
+    margin: 100px 0 100px 0;
 }
+
+.projects .two div img,.one div img{
+    width: 60%;
+    height: 80%;
+    border-radius: 50%;
+    transition: 1s;
+    margin: 20px;
+}
+
+.projects .two div img:hover,.one div img:hover{
+transform: scale(1.2,1.3);
+cursor: pointer;
+box-shadow: 5px 5px 80px rgb(193, 175, 17);
+}
+
+
 
 .link{
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
 }
 
